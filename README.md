@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KraftOreo
+- 👋 Hi, I’m Duo Zhang
 - 👀 I’m interested in Robotics and Human Robot Interaction
 - 🌱 I’m currently learning Computer Science to pursue my Master degree at NYU Courant Institute.
 <!---- 💞️ I’m looking to collaborate on ...--->
